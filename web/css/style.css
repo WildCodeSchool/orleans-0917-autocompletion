@@ -1,0 +1,25 @@
+.autocomplete li {
+    background-color: #e7effd;
+
+}
+.autocomplete li:hover {
+    background-color: #a8c6d3;
+    cursor:pointer
+}
+
+.autocomplete {
+    opacity:0.9;
+    position:absolute;
+    top:4.1em;
+    left:0;
+    width:100%;
+}
+
+.town {
+    position:relative;
+}
+
+.highlight {
+    font-weight:bold;
+    color: #1183d3;
+}
